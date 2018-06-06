@@ -15,12 +15,15 @@ An implementation of Material Design components in vanilla CSS, JS, and HTML.
 Current build status
 ====================
 
-All platforms: [![Circle CI](https://circleci.com/gh/conda-forge/material-design-lite-feedstock.svg?style=shield)](https://circleci.com/gh/conda-forge/material-design-lite-feedstock)
+All platforms:
+[![noarch](https://img.shields.io/circleci/project/github/conda-forge/material-design-lite-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/material-design-lite-feedstock)
 
 Current release info
 ====================
-Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/material-design-lite/badges/version.svg)](https://anaconda.org/conda-forge/material-design-lite)
-Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/material-design-lite/badges/downloads.svg)](https://anaconda.org/conda-forge/material-design-lite)
+
+| Name | Downloads | Version | Platforms |
+| --- | --- | --- | --- |
+| [![Conda Recipe](https://img.shields.io/badge/recipe-material--design--lite-green.svg)](https://anaconda.org/conda-forge/material-design-lite) | [![Conda Downloads](https://img.shields.io/conda/dn/conda-forge/material-design-lite.svg)](https://anaconda.org/conda-forge/material-design-lite) | [![Conda Version](https://img.shields.io/conda/vn/conda-forge/material-design-lite.svg)](https://anaconda.org/conda-forge/material-design-lite) | [![Conda Platforms](https://img.shields.io/conda/pn/conda-forge/material-design-lite.svg)](https://anaconda.org/conda-forge/material-design-lite) |
 
 Installing material-design-lite
 ===============================
